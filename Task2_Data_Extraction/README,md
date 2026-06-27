@@ -1,0 +1,11 @@
+# Task 2 - AI Powered Data Extraction
+
+## Objective
+Extract structured information from unstructured text.
+
+## Tools Used
+- Python
+- Regex
+
+## Output
+Structured JSON data extracted from text.
