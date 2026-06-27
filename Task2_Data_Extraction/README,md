@@ -1,11 +1,26 @@
 # Task 2 - AI Powered Data Extraction
 
 ## Objective
-Extract structured information from unstructured text.
+Extract structured information from unstructured text and convert it into JSON format.
 
 ## Tools Used
 - Python
-- Regex
+- Regular Expressions (Regex)
+- JSON
+
+## Input
+Unstructured text containing customer details such as name, date, and destination.
 
 ## Output
-Structured JSON data extracted from text.
+Structured JSON data extracted from the input text.
+
+## Example Output
+
+{
+  "name": "John Doe",
+  "date": "25 July 2026",
+  "destination": "Chennai"
+}
+
+## Author
+Ajaykumar L
